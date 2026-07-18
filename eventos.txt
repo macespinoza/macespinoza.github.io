@@ -1,0 +1,17 @@
+# =========================================================================
+# PROXIMOS EVENTOS — este archivo alimenta el badge "Próximo evento" de la
+# página (esquina superior derecha de la foto). Edítalo con cualquier editor
+# de texto (Bloc de notas, etc.). No necesitas tocar HTML, CSS ni JS.
+#
+# Reglas:
+# - Una línea = un evento.
+# - Las líneas que empiezan con "#" son comentarios y se ignoran.
+# - Las líneas en blanco se ignoran.
+# - Formato de cada línea (separado por " | "):
+#     AAAA-MM-DD | Título del evento | URL (opcional)
+# - Si hay varios eventos, la web muestra automáticamente el más próximo
+#   en el tiempo (y oculta los que ya pasaron).
+# - Si no hay ningún evento futuro, el badge se oculta solo.
+#
+# Ejemplo (elimina el "#" de la izquierda para activarlo):
+# 2026-09-10 | Taller de Agentes Inteligentes con LangGraph | https://sessionize.com/macespinoza/
