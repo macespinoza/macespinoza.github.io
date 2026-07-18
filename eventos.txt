@@ -14,4 +14,4 @@
 # - Si no hay ningún evento futuro, el badge se oculta solo.
 #
 # Ejemplo (elimina el "#" de la izquierda para activarlo):
-# 2026-09-10 | Taller de Agentes Inteligentes con LangGraph | https://sessionize.com/macespinoza/
+ 2026-07-19 | Taller de LangGraph desde cero | https://www.youtube.com/watch?v=yCs82GRYzD0
